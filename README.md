@@ -3,7 +3,7 @@
 Below are the links to the iOS Capstone Projects presented by the fellows from C4Q on April 10th, 2018 at [Venmo](https://venmo.com/).
 
 <p align="center">
-<img src="" width="567" height="378">
+<img src="https://github.com/C4Q/AC-iOS-4.3-Capstone-Projects/blob/master/Images/iOS-apps.png" width="567" height="378">
 </p>
 
 | Project | Link |
